@@ -1,0 +1,2 @@
+# panjijhay
+Miner
